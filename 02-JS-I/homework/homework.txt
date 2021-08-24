@@ -1,0 +1,14 @@
+                    Variables
+Una variable es una forma de almacenar y hacer referencia a algo que usaremos despues. 
+
+                    Strings
+Los strings son atributos que nos indican que vamos a manejar datos en bloques de texto que se encontrarán entre comillas.
+
+                    Funciones (argumentos, return)
+Una función es un conjunto de lineas que hacen una tarea. Pueden tener argumentos que son variables que modifican su comportamiento. Y por otro lado, pueden o no retornar un valor, a lo que se lo llama return.
+
+                    Declaraciones if
+Las declaraciones if son operadores de control de flujo y comparacion condicionales, que determinan si una parte del codigo es verdadera o falsa, para llevar a cabo o no la acción que va a continuación.
+
+                    Valores booleanos (true, false)
+Los valores booleanos nos indican que existen dos opciones: verdadero o falso. En el caso de que sea true ejecutará la parte del código que corresponda. 
