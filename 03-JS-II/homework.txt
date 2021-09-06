@@ -1,0 +1,11 @@
+            for
+Los bucles for, permiten realizar repeticiones mientras se siga cumpliendo la condición que nosotros determinamos. Tambien va actualizando el valor de las variables que ponemos en la condicion. 
+
+            &&
+El operador logico && (y/and) evalua las expresiones y devuelve verdadero solo si ambas son true, de lo contrario devuelve false.
+
+             ||
+El operador logico || (ó/or) tambien compara las expresiones y devuelve true si una o ambas es verdadera, de lo contrario devuelve false.
+             
+              !
+El operador logico ! (no/not) devuelve el valor booleano contrario al que se le pasa.
