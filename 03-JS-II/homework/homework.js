@@ -187,9 +187,11 @@ function tieneTresDigitos(numero){
   //Leer un número entero y retornar true si tiene 3 dígitos. Caso contrario, retorna false.
   //Escribe tu código aquí
   var string = numero.toString ()
-  if (string.length === 3) {
+  if (string.length === 3 && numero > 99 && numero < 1000) {
     return true
-  } 
+  } else if (string.length === 4 && numero > -1000 && numero < -99) {
+    return true
+  }
   return false
 }
 
